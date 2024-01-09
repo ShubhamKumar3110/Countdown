@@ -33,9 +33,9 @@ Live Site URL: https://shubhamkumar3110.github.io/Countdown/
 
 ### Built with
 
-- HTML5 markup
-- CSS custom properties
-- Javascript
+- HTML
+- CSS
+- JavaScript
 
 ### What I Learned
 
@@ -44,11 +44,11 @@ Live Site URL: https://shubhamkumar3110.github.io/Countdown/
 
 ### Continued development
 
-- I will be focusing on building responsive webpages.
+I will be focusing on building responsive webpages.
 
 ### Useful resources
 
-- [Wes Bos](https://wesbos.com/) - I followed the tutorials provided by Wes Bos. He teaches a lot of simple projects focused on javascript.
+[Wes Bos](https://wesbos.com/) - I followed the tutorials provided by Wes Bos. He teaches a lot of simple projects focused on javascript.
 
 ## Author
-- Shubham Kumar
+Shubham Kumar
